@@ -35,3 +35,9 @@ graph LR
 * Visualize diagrams with the mermaid syntax.
 * Provides visual highlight for code editor
 * Allows co-creation of documents in markdown format. 
+
+## Contributing 
+Please contribute by sending pull requests or opening issues
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
